@@ -7,6 +7,8 @@ This repository implements and compares 4 different machine learning algorithms 
 3. KNN
 4. Conv1D Deep Learning
 
+Dataset can be found [here](https://archive.ics.uci.edu/dataset/602/dry+bean+dataset)
+
 ## Local setup
 
 ### Python configuration
